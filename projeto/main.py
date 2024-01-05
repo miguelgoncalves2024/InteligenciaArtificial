@@ -10,9 +10,6 @@ from sklearn.model_selection import GridSearchCV
 #Pedro
 
 
-
-
-
 #Augusto
 print("batata")
 """ saiudfhasidufhasidufhisudfhaiusdhfiushdf """
